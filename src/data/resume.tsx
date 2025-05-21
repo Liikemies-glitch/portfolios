@@ -31,15 +31,9 @@ export const DATA = {
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "aksel.suokas@example.com",
-    tel: "+358123456789",
+    email: "aksel@goodside.fi",
+    tel: "+358403194366",
     social: {
-      GitHub: {
-        name: "GitHub",
-        url: "https://github.com/Liikemies-glitch",
-        icon: Icons.github,
-        navbar: true,
-      },
       LinkedIn: {
         name: "LinkedIn",
         url: "https://linkedin.com/in/akselsuokas",
@@ -54,7 +48,7 @@ export const DATA = {
       },
       email: {
         name: "Send Email",
-        url: "mailto:aksel.suokas@example.com",
+        url: "mailto:aksel@goodside.fi",
         icon: Icons.email,
         navbar: false,
       },
@@ -62,18 +56,6 @@ export const DATA = {
   },
 
   work: [
-    {
-      company: "Truster.com",
-      href: "https://truster.com",
-      badges: [],
-      location: "Lasikutusspaivelut, Finland",
-      title: "UX/UI & Product Designer",
-      logoUrl: "/lime.svg",
-      start: "March 2022",
-      end: "April 2023",
-      description:
-        "Responsible for the UX/UI of Truster's mobile application, ERP, and website. Contributed to scaling the business from 6,000 to 35,000 users. Designed a feature that increased extra service requests, generating additional revenue. Developed a modular design system in Figma to streamline workflows. Redesigned ERP views, leading to improved processing efficiency.",
-    },
     {
       company: "Truster.com",
       href: "https://truster.com",
@@ -145,32 +127,6 @@ export const DATA = {
       end: "May 2020",
       description:
         "Started career in UX/UI design through this trainee position. Learned fundamentals of user experience design, wireframing, and prototyping. Contributed to client projects under senior designer supervision.",
-    },
-  ],
-  education: [
-    {
-      school: "University of Helsinki",
-      href: "https://helsinki.fi",
-      degree: "Master's in Computer Science",
-      logoUrl: "/waterloo.png",
-      start: "2017",
-      end: "2019",
-    },
-    {
-      school: "Aalto University",
-      href: "https://aalto.fi",
-      degree: "Bachelor's in Information Technology",
-      logoUrl: "/laurier.png",
-      start: "2014",
-      end: "2017",
-    },
-    {
-      school: "Helsinki Coding Bootcamp",
-      href: "https://hcb.fi",
-      degree: "Full Stack Web Development",
-      logoUrl: "/buildspace.jpg",
-      start: "2019",
-      end: "2019",
     },
   ],
   projects: [
