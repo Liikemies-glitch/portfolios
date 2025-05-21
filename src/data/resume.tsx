@@ -129,6 +129,35 @@ export const DATA = {
         "Started career in UX/UI design through this trainee position. Learned fundamentals of user experience design, wireframing, and prototyping. Contributed to client projects under senior designer supervision.",
     },
   ],
+  // Hiding the education section based on request
+  /*
+  education: [
+    {
+      school: "University of Helsinki",
+      href: "https://helsinki.fi",
+      degree: "Master's in Computer Science",
+      logoUrl: "/waterloo.png",
+      start: "2017",
+      end: "2019",
+    },
+    {
+      school: "Aalto University",
+      href: "https://aalto.fi",
+      degree: "Bachelor's in Information Technology",
+      logoUrl: "/laurier.png",
+      start: "2014",
+      end: "2017",
+    },
+    {
+      school: "Helsinki Coding Bootcamp",
+      href: "https://hcb.fi",
+      degree: "Full Stack Web Development",
+      logoUrl: "/buildspace.jpg",
+      start: "2019",
+      end: "2019",
+    },
+  ],
+  */
   projects: [
     {
       title: "E-commerce Platform",
