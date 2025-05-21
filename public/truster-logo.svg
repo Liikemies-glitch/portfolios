@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 40" width="120" height="40">
+  <!-- Truster Logo - Blue version based on their branding -->
+  <g fill="#000748">
+    <path d="M10,8h22v4H28v20h-4V12H10V8z"/>
+    <path d="M34,8h4v10h12V8h4v24h-4V22H38v10h-4V8z"/>
+    <path d="M58,8h4v8h2c4,0,8,2,8,8s-4,8-8,8h-6V8z M62,28h2c2,0,4-1,4-4s-2-4-4-4h-2V28z"/>
+    <path d="M76,20c0-7,4-13,10-13s10,6,10,13s-4,13-10,13S76,27,76,20z M80,20c0,5,2,9,6,9s6-4,6-9s-2-9-6-9S80,15,80,20z"/>
+    <path d="M98,8h4v20h12v4H98V8z"/>
+    <path d="M116,8h2v24h-2V8z"/>
+  </g>
+</svg> 

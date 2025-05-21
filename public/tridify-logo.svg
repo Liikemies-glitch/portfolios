@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 40" width="120" height="40">
+  <!-- Tridify Logo - A technology company specializing in BIM/3D -->
+  <g fill="#2B70C9">
+    <path d="M10,8h22v4H21v20h-4V12h-7V8z"/>
+    <path d="M34,8h4v20h0.5l8.5-20h3l8.5,20H59V8h4v24h-6l-8.5-20h-0.5l-8.5,20h-5.5V8z"/>
+    <path d="M66,8h4v20h12v4H66V8z"/>
+    <path d="M84,8h4v24h-4V8z"/>
+    <path d="M92,8h5l9,16V8h4v24h-5l-9-16v16h-4V8z"/>
+    <path d="M114,22h4v4h-4V22z"/>
+  </g>
+</svg> 
